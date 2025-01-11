@@ -1,0 +1,3 @@
+[submodule "xss-crypto"]
+	path = xss-crypto
+	url = https://github.com/gioliguori/xss-crypto
